@@ -1,13 +1,19 @@
 1.Nguyễn Duy Hưng
+
 2.HE190591
+
 3.Project installation instructions
+
 Enable terminal and run comman
 - npm init -y
 - npm i express
+
 4.Instructions for running the application
 Enable terminal and run comman
 - node app.js
+
 5.Screenshots API
+
 Article
 GET /articles     
 ![alt text](image.png)
